@@ -1,10 +1,14 @@
+## ☁️ Live Demo
+
+**You can try the app live here:** (https://agileforecast.streamlit.app)
+
+
+
 # 🚀 Agile Project Forecaster
 
 A web app that uses Monte Carlo simulation to create probabilistic "burn-up" charts and forecast project completion dates.
 
 This tool moves beyond simple "best-case/worst-case" estimates by running thousands of simulations based on your team's actual historical data.
-
-*After you deploy, put a GIF and a live demo link here!*
 
 ## 🛠️ How to Run Locally
 
